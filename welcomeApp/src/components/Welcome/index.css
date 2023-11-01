@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  font-family: Bree Serif;
+}
+
+.bg-container {
+  background-color: #1e293b;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inner-container {
+  text-align: center;
+}
+
+.main-heading {
+  color: #f0bb03;
+  font-size: 4rem;
+  margin-bottom: 40px;
+}
+
+.paragraph {
+  color: #ffffff;
+  font-size: 2rem;
+
+  margin-bottom: 40px;
+}
+
+.button {
+  background-color: #ffffff;
+  padding: 7px 15px;
+  color: #1e293b;
+  border: 0px;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+}

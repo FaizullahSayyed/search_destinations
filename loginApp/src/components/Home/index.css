@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  font-family: Roboto;
+}
+
+.bg-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inner-container {
+  width: 450px;
+  height: 360px;
+  /* text-align: center; */
+  background: linear-gradient(to bottom, #2b2c49 60%, #b5b9ff);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

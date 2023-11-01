@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  font-family: Roboto;
+}
+.bg-container {
+  background: linear-gradient(to bottom, #ff6e7f 60%, #bfe9ff);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inner-container {
+  text-align: center;
+}
+
+.main-heading {
+  color: #0f172a;
+  font-size: 3rem;
+  margin-bottom: 40px;
+}
+
+.odd-even-message {
+  color: #334155;
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.button {
+  background-color: #ffffff;
+  border: 0px;
+  padding: 15px;
+  width: 200px;
+  font-weight: bold;
+  font-size: 18px;
+  color: #0f172a;
+  border-radius: 10px;
+  cursor: pointer;
+  outline: none;
+  margin-bottom: 10px;
+}
+
+.guide-message {
+  color: #1e293b;
+  font-size: 10px;
+}

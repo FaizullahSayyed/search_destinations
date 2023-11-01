@@ -1,0 +1,22 @@
+.todo-container {
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+}
+
+.todo-title {
+  color: #000000;
+}
+
+.button {
+  color: #ff0b37;
+  background-color: transparent;
+  border: 2px solid #ff0b37;
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 8px;
+  height: 30px;
+  line-height: 0.5rem;
+  cursor: pointer;
+  outline: none;
+}
